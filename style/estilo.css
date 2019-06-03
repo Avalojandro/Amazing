@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+.logo
+{
+    font-family: 'Righteous', cursive;
+    color: #ffffff;
+    font-size: 55px;
+}
+
+.mostrar
+{
+    float: right;
+}
+
+.general
+{
+    margin: auto;
+    margin-top: 1px;
+
+}
+
+.relleno
+{
+    background-color: #03344E;
+    width: 470px;
+    height: 4100px;
+    float: left;
+}
+
+.espacio
+{
+    float: right;
+    width: 40px;
+
+}
+
+.productos
+{
+    background-color: #d2e6f1;
+    width: 40px;
+    float: right;
+    width: 790px;
+}
+
+.description
+{
+    width: 600px;
+    text-align: left;
+}
+
+.texto
+{
+    width: 600px;
+    text-align: left;
+}
+
+.fotto
+{
+   border-radius: 56px;
+}
+
+.fuente
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.credito
+{
+    color: #225e7e;
+}
